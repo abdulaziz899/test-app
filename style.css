@@ -1,0 +1,181 @@
+#oldID {
+  height: 100%;
+  width: 100%;
+  background-image: url("download.png");
+  background-repeat: no-repeat;
+  padding: 15px;
+  
+}
+#oneID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download1.png");
+  background-repeat: no-repeat;
+}
+#twoID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download2.png");
+  background-repeat: no-repeat;
+}
+#threeID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download3.png");
+  background-repeat: no-repeat;
+}
+#fourID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download4.png");
+  background-repeat: no-repeat;
+}
+#fiveID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download5.png");
+  background-repeat: no-repeat;
+}
+#sixID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download6.png");
+  background-repeat: no-repeat;
+}
+#sevenID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download7.png");
+  background-repeat: no-repeat;
+}
+#eightID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download8.png");
+  background-repeat: no-repeat;
+}
+#nineID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download9.png");
+  background-repeat: no-repeat;
+}
+#tenID {
+  height: 100%;
+  width: 100%;
+  padding: 15px;
+  background-image: url("Image/download10.png");
+  background-repeat: no-repeat;
+}
+.one {
+  position: relative;
+  top: 13px;
+  left: 439px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: red;
+  opacity: 0;
+}
+.two {
+  position: relative;
+  top: -29px;
+  left: 538px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(177, 1, 1);
+  opacity: 0;
+}
+
+.three {
+  position: relative;
+  top: -20px;
+  left: 599px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(37, 253, 18);
+  opacity: 0;
+}
+
+.four {
+  position: relative;
+  top: 9px;
+  left: 598px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(0, 25, 107);
+  opacity: 0;
+}
+
+.five {
+  position: relative;
+  top: 18px;
+  left: 536px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(13, 236, 169);
+  opacity: 0;
+}
+.six {
+  position: relative;
+  top: -26px;
+  left: 438px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(13, 236, 169);
+  opacity: 0;
+}
+.seven {
+  position: relative;
+  top: -132px;
+  left: 339px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(255, 81, 81);
+  opacity: 0;
+}
+.eight {
+  position: relative;
+  top: -291px;
+  left: 278px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(19, 23, 87);
+  opacity: 0;
+}
+.nine {
+  position: relative;
+  top: -468px;
+  left: 277px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(220, 17, 247);
+  opacity: 0;
+}
+.ten {
+  position: relative;
+  top: -628px;
+  left: 336px;
+  border-radius: 45px;
+  height: 75px;
+  width: 75px;
+  background-color: rgb(17, 247, 236);
+  opacity: 0;
+}
